@@ -7,6 +7,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/PratishthaGautam07/Leetcode_/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PratishthaGautam07/Leetcode_/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/PratishthaGautam07/Leetcode_/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/PratishthaGautam07/Leetcode_/tree/main/0229-majority-element-ii/) | Medium |
 ## Hash Table
@@ -33,4 +34,5 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/PratishthaGautam07/Leetcode_/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PratishthaGautam07/Leetcode_/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
