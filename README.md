@@ -44,4 +44,16 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms practice
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0031-next-permutation) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
