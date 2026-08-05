@@ -45,10 +45,12 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms practice
 | ------- |
 | [0031-next-permutation](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
