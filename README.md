@@ -53,6 +53,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms practice
 | [0125-valid-palindrome](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -72,4 +73,8 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms practice
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1903-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
