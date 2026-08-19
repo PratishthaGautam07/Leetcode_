@@ -6,6 +6,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms practice
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/PratishthaGautam07/Leetcode_/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0118-pascals-triangle) |
@@ -53,6 +54,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms practice
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0242-valid-anagram) |
@@ -82,4 +84,8 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms practice
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
