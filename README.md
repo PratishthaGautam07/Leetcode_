@@ -21,6 +21,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms practice
 | [0205-isomorphic-strings](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/PratishthaGautam07/Leetcode_/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -32,11 +33,13 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms practice
 | [0169-majority-element](https://github.com/PratishthaGautam07/Leetcode_/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/PratishthaGautam07/Leetcode_/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PratishthaGautam07/Leetcode_/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/PratishthaGautam07/Leetcode_/tree/main/0229-majority-element-ii/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +62,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms practice
 | [0205-isomorphic-strings](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1021-remove-outermost-parentheses) |
@@ -88,4 +92,12 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms practice
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
