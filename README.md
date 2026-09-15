@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0088-merge-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1004-max-consecutive-ones-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PratishthaGautam07/Leetcode_/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -36,4 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1004-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
