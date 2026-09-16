@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0189-rotate-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PratishthaGautam07/Leetcode_/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PratishthaGautam07/Leetcode_/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1004-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
