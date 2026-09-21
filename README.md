@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PratishthaGautam07/Leetcode_/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
