@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0485-max-consecutive-ones) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1004-max-consecutive-ones-iii) |
