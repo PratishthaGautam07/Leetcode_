@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0088-merge-sorted-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0875-koko-eating-bananas) |
