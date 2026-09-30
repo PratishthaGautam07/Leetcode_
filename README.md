@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
