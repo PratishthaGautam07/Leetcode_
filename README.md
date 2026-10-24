@@ -33,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0189-rotate-array) |
+| [0844-backspace-string-compare](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PratishthaGautam07/Leetcode_/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PratishthaGautam07/Leetcode_/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0383-ransom-note) |
+| [0844-backspace-string-compare](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
