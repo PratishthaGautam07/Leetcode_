@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0383-ransom-note) |
 | [0844-backspace-string-compare](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2409-count-days-spent-together](https://github.com/PratishthaGautam07/Leetcode_/tree/master/2409-count-days-spent-together) |
 ## Sliding Window
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0189-rotate-array) |
+| [2409-count-days-spent-together](https://github.com/PratishthaGautam07/Leetcode_/tree/master/2409-count-days-spent-together) |
 ## Bit Manipulation
 |  |
 | ------- |
