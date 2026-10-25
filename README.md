@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0383-ransom-note) |
 | [0844-backspace-string-compare](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
