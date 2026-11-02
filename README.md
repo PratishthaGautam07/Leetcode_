@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0242-valid-anagram) |
+| [0853-car-fleet](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0853-car-fleet) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0844-backspace-string-compare) |
+| [0853-car-fleet](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
