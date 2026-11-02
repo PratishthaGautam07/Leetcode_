@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PratishthaGautam07/Leetcode_/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0503-next-greater-element-ii) |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0901-online-stock-span) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
