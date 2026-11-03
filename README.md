@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0394-decode-string) |
 ## Range Minimum/Maximum Query
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PratishthaGautam07/Leetcode_/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
